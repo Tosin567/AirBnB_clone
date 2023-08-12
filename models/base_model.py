@@ -12,6 +12,7 @@ class BaseModel:
         """Initialize a new BaseModel.
 
         Args:
+            self: Refer to the Current Instance
             *args (any): Unused.
             **kwargs (dict): Key/value pairs of attributes.
         """
