@@ -5,7 +5,6 @@ import inspect
 import pep8
 from models.base_model import BaseModel
 from datetime import datetime
-import datetime
 
 
 class BaseModel_testing(unittest.TestCase):
